@@ -1,8 +1,9 @@
 *{
-
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
 }
 body {
-    overflow-x: auto;
+    background-color: blueviolet;
 }
 h2{
     text-align: center;
@@ -13,6 +14,19 @@ h2{
 .content-petit {
 
 }
-li{
-    color: whitesmoke;
+.divImportant {
+    padding: 15px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    transition: all .2s ease-in-out;
+    background-color: whitesmoke;
+}  
+h4{
+    color: blueviolet;
+    font-weight: bold;
+}
+.divImportant:hover {
+    transform: scale(1.005);
 }
