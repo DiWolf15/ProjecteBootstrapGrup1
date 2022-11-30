@@ -1,6 +1,8 @@
 *{
+
+}
+body {
     overflow-x: auto;
-    overflow-x: hidden;
 }
 h2{
     text-align: center;
@@ -10,4 +12,7 @@ h2{
 }
 .content-petit {
 
+}
+li{
+    color: whitesmoke;
 }
