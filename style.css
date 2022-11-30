@@ -1,9 +1,11 @@
 *{
     margin: 0px;
+    overflow-x: auto;
+    overflow-x: hidden;
     font-family: 'Courier New', Courier, monospace;
 }
 body {
-    background-color: blueviolet;
+    background-color: rgb(111, 26, 190);
 }
 h2{
     text-align: center;
@@ -21,12 +23,21 @@ h2{
     margin-top: 30px;
     margin-bottom: 30px;
     transition: all .2s ease-in-out;
-    background-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.863);
+    color: antiquewhite;
 }  
 h4{
-    color: blueviolet;
     font-weight: bold;
 }
 .divImportant:hover {
     transform: scale(1.005);
+}
+.background{
+    background-color: black;
+    color: white;
+    overflow-x: ;
+}
+.footer{
+    height: 100px;
+    background-color: black;
 }
