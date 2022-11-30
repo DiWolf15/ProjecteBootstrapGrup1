@@ -1,0 +1,13 @@
+*{
+    overflow-x: auto;
+    overflow-x: hidden;
+}
+h2{
+    text-align: center;
+}
+.content {
+    height: 400px;   
+}
+.content-petit {
+
+}

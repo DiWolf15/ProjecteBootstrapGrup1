@@ -1,5 +1,3 @@
-var salutacions = "hola";
+var salutacions = "Bon Dia";
 var header = document.getElementById("logo");
-header.innerHTML = `
-<h1>HEADER TEXT</h1> <h2>${salutacions}</h2>
-`;
+var colorbackground = "hola";
