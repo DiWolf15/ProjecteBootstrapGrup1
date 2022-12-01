@@ -12,11 +12,11 @@
     font-family: Montserrat,sans-serif;
 }
 body {
-    background-color: var(--taronja);
+    background-color: var(--blanc);
 }
 h2{
-    text-align: center;
-    color: var(--blanc);
+    color: var(--taronja);
+    font-weight: bold;
 }
 .content {
     height: 400px;   
@@ -35,7 +35,9 @@ h2{
     color: antiquewhite;
 }  
 h4{
-    font-weight: bold;
+    color: var(--blanc);
+}
+p {
     color: var(--blanc);
 }
 .divImportant:hover {
@@ -45,7 +47,6 @@ h4{
     background-color: var(--fosc);
     color: var(--taronja);
     text-emphasis-color: var(--taronja);
-    box-shadow: black 2px 0px;
 }
 .footer{
     height: 100px;
