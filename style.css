@@ -32,7 +32,7 @@ h2{
     margin-bottom: 30px;
     transition: all .2s ease-in-out;
     background-color: var(--gris);
-    color: antiquewhite;
+    color: var(--blanc);
 }  
 h4{
     color: var(--blanc);
@@ -45,10 +45,13 @@ p {
 }
 .background{
     background-color: var(--fosc);
-    color: var(--taronja);
-    text-emphasis-color: var(--taronja);
+    color: var(--blanc)
 }
 .footer{
     height: 100px;
     background-color: var(--fosc);
+}
+a {
+    text-decoration: none;
+    color: var(--taronja);
 }
