@@ -52,7 +52,7 @@ p {
     background-color: var(--fosc);
     width: 100%;
 }
-a {
+a{
     text-decoration: none;
     color: var(--taronja);
 }
