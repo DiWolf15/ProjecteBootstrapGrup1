@@ -55,4 +55,5 @@ p {
 a{
     text-decoration: none;
     color: var(--taronja);
+    font-size: larger;
 }
