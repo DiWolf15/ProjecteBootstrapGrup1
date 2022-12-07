@@ -8,9 +8,7 @@ header.innerHTML = `
 						  </button>
 						  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-							  <li class="nav-item">
-								<a class="nav-link active background" aria-current="page" href="index.html">Home</a>
-							  </li>
+							
 							  <li class="nav-item">
 								<a class="nav-link background" href="HTML/shop.html">Shop</a>
 							  </li>
@@ -31,14 +29,11 @@ titol2.innerHTML = `
 					<nav class="navbar navbar-expand-lg background ">
 						<div class="container-fluid">
 						  <a class="navbar-brand" href="#">EXERCICIS GYM</a>
-						  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						  </button>
-						  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+						  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
 							<ul class="navbar-nav me-auto mb-2 mb-lg-0">
-							  <li class="nav-item">
-								<a class="nav-link active background" aria-current="page" href="../index.html">Home</a>
-							  </li>
 							  <li class="nav-item">
 								<a class="nav-link background" href="HTML/shop.html">Shop</a>
 							  </li>
