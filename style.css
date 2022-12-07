@@ -50,8 +50,6 @@ p {
 .footer{
     height: 100px;
     background-color: var(--fosc);
-    position: absolute;
-    bottom: -50px;
     width: 100%;
 }
 a {

@@ -1,8 +1,5 @@
-var salutacions = "hola";
 var header = document.getElementById("titol");
 header.innerHTML = `
-<div class="row">
-				<div class="col col-12 col-sm-12">
 					<nav class="navbar navbar-expand-lg background ">
 						<div class="container-fluid">
 						  <a class="navbar-brand" href="#">EXERCICIS GYM</a>
@@ -27,7 +24,6 @@ header.innerHTML = `
 						  </div>
 						</div>
 					  </nav>
-				</div>
-			</div>
+				
 `;
 
