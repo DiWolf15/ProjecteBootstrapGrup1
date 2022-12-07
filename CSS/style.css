@@ -5,6 +5,9 @@
     --gris: #393e46;
 }
 
+img{
+    width: 400px;
+}
 *{
     margin: 0px;
     overflow-x: auto;
@@ -14,6 +17,12 @@
 body {
     background-color: var(--blanc);
     min-height: 100vh;
+}
+.ejer{
+    border-style:solid;
+    border-color: #222831;
+    border-width: 2px;
+    border-radius: 10px;
 }
 h2{
     color: var(--taronja);
