@@ -13,6 +13,7 @@
 }
 body {
     background-color: var(--blanc);
+    min-height: 100vh;
 }
 h2{
     color: var(--taronja);
@@ -45,15 +46,21 @@ p {
 }
 .background{
     background-color: var(--fosc);
-    color: var(--blanc)
+    color: var(--blanc);
+    padding: 0px;
 }
 .footer{
-    height: 100px;
+    height: 50px;
     background-color: var(--fosc);
     width: 100%;
+    position: absolute;
+    bottom: 0px;
 }
-a{
+a {
     text-decoration: none;
     color: var(--taronja);
     font-size: larger;
+}
+.imgmenu {
+    width: 200px;
 }
