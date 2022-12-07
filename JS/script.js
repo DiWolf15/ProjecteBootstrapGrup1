@@ -12,7 +12,7 @@ header.innerHTML = `
 								<a class="nav-link active background" aria-current="page" href="index.html">Home</a>
 							  </li>
 							  <li class="nav-item">
-								<a class="nav-link background" href="shop.html">Shop</a>
+								<a class="nav-link background" href="HTML/shop.html">Shop</a>
 							  </li>
 							  <li class="nav-item">
 								<a class="nav-link disabled background" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
