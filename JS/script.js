@@ -19,7 +19,7 @@ header.innerHTML = `
 							  </li>
 							</ul>
 							<div>
-								<img src="https://img.freepik.com/premium-photo/3d-rendering-black-dumbbells-floor-dark-concept-fitness-room-with-training-equipments-back_67155-14961.jpg" id="imgtop">
+								<img src="https://img.freepik.com/premium-photo/3d-rendering-black-dumbbells-floor-dark-concept-fitness-room-with-training-equipments-back_67155-14961.jpg" id="imgtitol">
 							</div>
 						  </div>
 						</div>
