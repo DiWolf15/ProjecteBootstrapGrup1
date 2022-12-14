@@ -28,12 +28,6 @@ h2{
     color: var(--taronja);
     font-weight: bold;
 }
-.content {
-    height: 400px;   
-}
-.content-petit {
-
-}
 .divImportant {
     padding: 15px;
     border-radius: 15px;
@@ -72,4 +66,14 @@ a {
 }
 .imgmenu {
     width: 200px;
+}
+#imgtitol {
+    width: 800px;
+    height: 100px;
+}
+.navbar-toggler {
+    background-color: var(--blanc);
+}
+.navbar-toggler-icon {
+    background-color: var(--fosc);
 }

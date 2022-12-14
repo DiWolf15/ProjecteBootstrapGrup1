@@ -9,9 +9,9 @@ header.innerHTML = `
 						  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav me-auto mb-2 mb-lg-0">
 							  <li class="nav-item">
-								<a class="nav-link background" href="index.html">Home</a>
+								<a class="nav-link background" href="../index.html">Home</a>
 							  </li>
-								<li class="nav-item">
+							  <li class="nav-item">
 								<a class="nav-link background" href="HTML/shop.html">Shop</a>
 							  </li>
 							  <li class="nav-item">
@@ -19,7 +19,7 @@ header.innerHTML = `
 							  </li>
 							</ul>
 							<div>
-								<img src="https://img.freepik.com/premium-photo/3d-rendering-black-dumbbells-floor-dark-concept-fitness-room-with-training-equipments-back_67155-14961.jpg" width="800px" height="100px">
+								<img src="https://img.freepik.com/premium-photo/3d-rendering-black-dumbbells-floor-dark-concept-fitness-room-with-training-equipments-back_67155-14961.jpg" id="imgtitol">
 							</div>
 						  </div>
 						</div>
