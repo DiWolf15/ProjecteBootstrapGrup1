@@ -11,9 +11,6 @@ header.innerHTML = `
 							  <li class="nav-item">
 								<a class="nav-link background" href="index.html">Home</a>
 							  </li>
-								<li class="nav-item">
-								<a class="nav-link background" href="HTML/shop.html">Shop</a>
-							  </li>
 							  <li class="nav-item">
 								<a class="nav-link disabled background" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
 							  </li>
