@@ -62,3 +62,9 @@ a {
     width: 800px;
     height: 100px;
 }
+.navbar-toggler {
+    background-color: var(--blanc);
+}
+.navbar-toggler-icon {
+    background-color: var(--fosc);
+}
