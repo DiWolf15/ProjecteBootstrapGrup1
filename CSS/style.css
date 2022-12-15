@@ -7,6 +7,7 @@
 
 img{
     width: 400px;
+    padding: 15px;
 }
 *{
     margin: 0px;
@@ -68,10 +69,14 @@ a {
 #imgtitol {
     width: 800px;
     height: 100px;
+    padding: 0px;
 }
 .navbar-toggler {
     background-color: var(--blanc);
 }
 .navbar-toggler-icon {
     background-color: var(--fosc);
+}
+.imglogoinsti {
+    width: 120px;
 }

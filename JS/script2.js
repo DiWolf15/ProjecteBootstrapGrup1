@@ -2,7 +2,7 @@ var header = document.getElementById("titol");
 header.innerHTML = `
 					<nav class="navbar navbar-expand-lg background">
 						<div class="container-fluid  p-0">
-						  <a class="navbar-brand p-3" href="#">EXERCICIS GYM</a>
+						  <a class="navbar-brand p-3" href="../index.html">EXERCICIS GYM</a>
 						  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="navbar-toggler-icon"></span>
 						  </button>
